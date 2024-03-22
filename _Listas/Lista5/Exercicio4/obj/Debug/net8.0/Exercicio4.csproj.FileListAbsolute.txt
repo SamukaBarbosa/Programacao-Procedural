@@ -1,0 +1,15 @@
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\bin\Debug\net8.0\Exercicio4.exe
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\bin\Debug\net8.0\Exercicio4.deps.json
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\bin\Debug\net8.0\Exercicio4.runtimeconfig.json
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\bin\Debug\net8.0\Exercicio4.dll
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\bin\Debug\net8.0\Exercicio4.pdb
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfo.cs
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.sourcelink.json
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.dll
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\refint\Exercicio4.dll
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.pdb
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\Exercicio4.genruntimeconfig.cache
+C:\Users\CCB CAROLINA\Desktop\Programacao-Procedural\_Listas\Lista5\Exercicio4\obj\Debug\net8.0\ref\Exercicio4.dll
